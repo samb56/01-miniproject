@@ -1,0 +1,46 @@
+
+*{ font-family: Arial, Helvetica, sans-serif;}
+
+h1{ 
+  background-color: lightgreen;
+  display: inline;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  text-align: center;
+  margin: 0%;
+  
+}
+h2{
+  font-weight: bold;
+}
+h3{
+  font-weight: bold;
+  text-decoration: underline;
+}
+li{
+  padding: 15px;
+  display: inline;
+}
+body{
+  background-color: lemonchiffon;
+}
+#image-1{
+  block-size: 400px;
+  position: relative;
+  top: 150px;
+  
+
+}
+figure{ 
+  position: relative;
+  top: 130px;
+}
+#login-Window{
+  position: relative;
+  top: 150px;
+}
+#contact-section{
+  position: relative;
+  top: 300px
+}
